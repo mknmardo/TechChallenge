@@ -1,0 +1,10 @@
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\obj\Debug\WH.RiskApplication.TechChallenge.Common.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\obj\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\obj\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\obj\Debug\WH.RiskApplication.TechChallenge.Common.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\obj\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Model\obj\Debug\WH.RiskApplication.TechChallenge.Model.pdb

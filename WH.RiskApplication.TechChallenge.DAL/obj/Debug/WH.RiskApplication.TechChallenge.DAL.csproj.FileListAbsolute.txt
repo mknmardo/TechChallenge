@@ -1,0 +1,48 @@
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.csprojResolveAssemblyReference.cache
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Core-Services\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Desktop\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Desktop\RiskApplication\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.pdb

@@ -19,3 +19,10 @@ C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechCh
 C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\obj\Debug\WH.RiskApplication.TechChallenge.Utils.csprojResolveAssemblyReference.cache
 C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\obj\Debug\WH.RiskApplication.TechChallenge.Core.dll
 C:\Users\markkennethmardo\Desktop\Dependency Injection\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\obj\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\obj\Debug\WH.RiskApplication.TechChallenge.Utils.csprojResolveAssemblyReference.cache
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\obj\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Core\obj\Debug\WH.RiskApplication.TechChallenge.Core.pdb

@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.3
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.API", "WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.API.csproj", "{D43771B7-9E8E-4199-AB90-C6346BB80408}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.Tests", "WH.RiskApplication.TechChallenge.Tests\WH.RiskApplication.TechChallenge.Tests.csproj", "{EC231B9F-D25E-41BC-B076-7147A648F015}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.Business", "WH.RiskApplication.TechChallenge.Business\WH.RiskApplication.TechChallenge.Business.csproj", "{EEA67AC0-E89A-4A1D-B339-DCEF25C75364}"
 EndProject
@@ -14,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.Utils", "WH.RiskApplication.TechChallenge.Core\WH.RiskApplication.TechChallenge.Utils.csproj", "{D964A961-5F39-4CAC-B5F5-E8FA4E0B2CA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.Common", "WH.RiskApplication.TechChallenge.Model\WH.RiskApplication.TechChallenge.Common.csproj", "{2D93AA72-FEE8-4545-8F7F-603AB53FE298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.Business.Tests", "WH.RiskApplication.TechChallenge.Business.Tests\WH.RiskApplication.TechChallenge.Business.Tests.csproj", "{3CE4F07B-5B0D-44AA-A770-6B90674C9A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WH.RiskApplication.TechChallenge.API.IntegrationTests", "WH.RiskApplication.TechChallenge.API.IntegrationTests\WH.RiskApplication.TechChallenge.API.IntegrationTests.csproj", "{F4F08CCD-B6F6-4A7C-BF21-EABDF6C676B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +27,6 @@ Global
 		{D43771B7-9E8E-4199-AB90-C6346BB80408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43771B7-9E8E-4199-AB90-C6346BB80408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43771B7-9E8E-4199-AB90-C6346BB80408}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC231B9F-D25E-41BC-B076-7147A648F015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC231B9F-D25E-41BC-B076-7147A648F015}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC231B9F-D25E-41BC-B076-7147A648F015}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC231B9F-D25E-41BC-B076-7147A648F015}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EEA67AC0-E89A-4A1D-B339-DCEF25C75364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EEA67AC0-E89A-4A1D-B339-DCEF25C75364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEA67AC0-E89A-4A1D-B339-DCEF25C75364}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +43,14 @@ Global
 		{2D93AA72-FEE8-4545-8F7F-603AB53FE298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D93AA72-FEE8-4545-8F7F-603AB53FE298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D93AA72-FEE8-4545-8F7F-603AB53FE298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE4F07B-5B0D-44AA-A770-6B90674C9A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE4F07B-5B0D-44AA-A770-6B90674C9A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE4F07B-5B0D-44AA-A770-6B90674C9A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE4F07B-5B0D-44AA-A770-6B90674C9A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F08CCD-B6F6-4A7C-BF21-EABDF6C676B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F08CCD-B6F6-4A7C-BF21-EABDF6C676B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F08CCD-B6F6-4A7C-BF21-EABDF6C676B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F08CCD-B6F6-4A7C-BF21-EABDF6C676B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

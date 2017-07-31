@@ -39,6 +39,11 @@ namespace WH.RiskApplication.TechChallenge.Utils
             return JsonConvert.DeserializeObject<List<TModel>>(Client.GetAsync(endpoint).Result.Content.ReadAsStringAsync().Result);
         }
 
+        public TModel GetObjectList<TModel>(string endpoint)
+        {
+            return JsonConvert.DeserializeObject<TModel>(Client.GetAsync(endpoint).Result.Content.ReadAsStringAsync().Result);
+        }
+
         public TResult Post<TModel, TResult>(string endpoint, TModel model)
         {
             return GetResult<TResult>(Client.PostAsync(endpoint, new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json")).Result);

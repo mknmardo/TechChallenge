@@ -12,6 +12,7 @@ using WH.RiskApplication.TechChallenge.DAL.impl;
 using WH.RiskApplication.TechChallenge.DAL.interfaces;
 using WH.RiskApplication.TechChallenge.Common;
 using System.Configuration;
+using System.Runtime.CompilerServices;
 
 namespace WH.RiskApplication.TechChallenge.Business.Tests
 {
@@ -22,16 +23,14 @@ namespace WH.RiskApplication.TechChallenge.Business.Tests
         public void GivenThirdPartyApiIsWorking_WhenIGetUnUsualBetWinners_ThenItShouldReturnResults()
         {
             //Arrange
-            var betDalManager = new Mock<IBetDALManager>();        
-            var betManager = new BetManager(betDalManager.Object);
-            var result = new List<UnusualWinnerModel>();
+            var betDalManager = new Mock<IBetDALManager>();
+            betDalManager.Setup(x => x.GetSettledBets(ConfigurationManager.AppSettings["SettledBet_Endpoint"]))
+                .Returns(new List<BetDetailsModel>());
 
+            var betManager = new BetManager(betDalManager.Object);
             //Act
-            Action action = () =>
-            {
-                result = betManager.GetUnUsualBetWinners().ToList();
-                betDalManager.Verify(m => m.GetSettledBets(It.IsAny<string>()), Times.AtLeastOnce);
-            };
+            var result = betManager.GetUnUsualBetWinners();
+            betDalManager.Verify(m => m.GetSettledBets(It.IsAny<string>()), Times.AtLeastOnce);
 
             //Assert
             Assert.IsNotNull(result);

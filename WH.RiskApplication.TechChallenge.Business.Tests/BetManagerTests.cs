@@ -23,9 +23,18 @@ namespace WH.RiskApplication.TechChallenge.Business.Tests
         public void GivenThirdPartyApiIsWorking_WhenIGetUnUsualBetWinners_ThenItShouldReturnResults()
         {
             //Arrange
+            var settledList = new BetDetailsModel();
+            settledList.Customer = "1";
+            settledList.Event = "11";
+            settledList.Participant = "4";
+            settledList.Stake = 50;
+            settledList.Win = 70;
+
             var betDalManager = new Mock<IBetDALManager>();
-            betDalManager.Setup(x => x.GetSettledBets(ConfigurationManager.AppSettings["SettledBet_Endpoint"]))
-                .Returns(new List<BetDetailsModel>());
+            betDalManager.Setup(s => s.GetSettledBets(It.IsAny<string>())).Returns(() => new List<BetDetailsModel>
+            {
+                settledList              
+            });
 
             var betManager = new BetManager(betDalManager.Object);
             //Act

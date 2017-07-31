@@ -58,3 +58,15 @@ C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplica
 C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.xml
 C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
 C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.DAL\obj\Debug\WH.RiskApplication.TechChallenge.DAL.pdb

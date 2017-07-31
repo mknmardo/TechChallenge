@@ -71,3 +71,18 @@ C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplica
 C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business\obj\Debug\WH.RiskApplication.TechChallenge.Business.csprojResolveAssemblyReference.cache
 C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business\obj\Debug\WH.RiskApplication.TechChallenge.Business.dll
 C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business\obj\Debug\WH.RiskApplication.TechChallenge.Business.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Business.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Business.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Business.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\obj\Debug\WH.RiskApplication.TechChallenge.Business.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\obj\Debug\WH.RiskApplication.TechChallenge.Business.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business\obj\Debug\WH.RiskApplication.TechChallenge.Business.pdb

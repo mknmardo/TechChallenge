@@ -5,6 +5,7 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WH.RiskApplication.TechChallenge.DAL;
 using Moq;
+using Ploeh.AutoFixture;
 
 using WH.RiskApplication.TechChallenge.Business.interfaces;
 using WH.RiskApplication.TechChallenge.Business.impl;
@@ -23,17 +24,17 @@ namespace WH.RiskApplication.TechChallenge.Business.Tests
         public void GivenThirdPartyApiIsWorking_WhenIGetUnUsualBetWinners_ThenItShouldReturnResults()
         {
             //Arrange
-            var settledList = new BetDetailsModel();
-            settledList.Customer = "1";
-            settledList.Event = "11";
-            settledList.Participant = "4";
-            settledList.Stake = 50;
-            settledList.Win = 70;
+            var betDetailsModel = new BetDetailsModel();
+            betDetailsModel.Customer = "1";
+            betDetailsModel.Event = "11";
+            betDetailsModel.Participant = "4";
+            betDetailsModel.Stake = 50;
+            betDetailsModel.Win = 70;
 
             var betDalManager = new Mock<IBetDALManager>();
             betDalManager.Setup(s => s.GetSettledBets(It.IsAny<string>())).Returns(() => new List<BetDetailsModel>
             {
-                settledList              
+                betDetailsModel
             });
 
             var betManager = new BetManager(betDalManager.Object);
@@ -43,6 +44,31 @@ namespace WH.RiskApplication.TechChallenge.Business.Tests
 
             //Assert
             Assert.IsNotNull(result);
+            Assert.AreEqual("1",result.ElementAt(0).CustomerName);
+            Assert.AreEqual((decimal)100,result.ElementAt(0).WinRate);
+        }
+
+        [TestMethod]
+        public void GivenThirdPartyApiIsWorking_WhenIGetUnUsualBetWinnersUsingRandomValues_ThenReturnValidCustomerAndResulltNotNull()
+        {
+            //Arrange
+            Fixture fixture = new Fixture();
+            var betDetailsModel = fixture.Create<BetDetailsModel>();
+
+            var betDalManager = new Mock<IBetDALManager>();
+            betDalManager.Setup(s => s.GetSettledBets(It.IsAny<string>())).Returns(() => new List<BetDetailsModel>
+            {
+                betDetailsModel
+            });
+
+            var betManager = new BetManager(betDalManager.Object);
+            //Act
+            var result = betManager.GetUnUsualBetWinners();
+            betDalManager.Verify(m => m.GetSettledBets(It.IsAny<string>()), Times.AtLeastOnce);
+
+            //Assert
+            Assert.IsNotNull(result);
+            Assert.AreEqual(betDetailsModel.Customer,result.ElementAt(0).CustomerName);
         }
 
         [TestMethod]

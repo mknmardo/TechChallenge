@@ -1,0 +1,76 @@
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Castle.Core.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.xml
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.dll
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.pdb
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.xml
+C:\Core-Services\Risk Assessment\WH.RiskApplication.TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Castle.Core.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll.config
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.xml
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll
+C:\Users\markkennethmardo\Documents\BitBucket\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll.config
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.Tests.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Castle.Core.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Model.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Core.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Business.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.DAL.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Model.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\FakeItEasy.xml
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Moq.xml
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\WH.RiskApplication.TechChallenge.Core.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\obj\Debug\WH.RiskApplication.TechChallenge.Business.Tests.pdb
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Ploeh.AutoFixture.dll
+C:\Core-Services\TechChallenge\WH.RiskApplication.TechChallenge.Business.Tests\bin\Debug\Ploeh.AutoFixture.xml

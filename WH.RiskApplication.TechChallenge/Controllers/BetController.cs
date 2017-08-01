@@ -33,7 +33,7 @@ namespace WH.RiskApplication.TechChallenge.API.Controllers
 
         [HttpGet]
         [Route("analysisresults")]
-        public ResultsViewModel Test3()
+        public ResultsViewModel GetAnalysisResults()
         {
             IBetManager betManager = new BetManager(new BetDALManager());
             return betManager.GetAnalysisResults();
